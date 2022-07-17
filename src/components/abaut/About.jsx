@@ -41,8 +41,7 @@ const About = () => {
             </div>
 
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi iure temporibus quod tempore, laboriosam exercitationem quas omnis accusantium magni, pariatur corporis maiores repudiandae. Molestiae porro molestias quas quis accusantium distinctio.
-          
+                  Meu nome é Rafael Martins, sou do Rio de Janeiro. Sou formado em Processos Gerenciais pela Universidade Veiga de Almeida. Atuei por 10 anos na área da segurança privada, após esse período tomei a decisão de fazer a transição de carreira. Sempre gostei de tecnologia, na facilitação, nas conexões que a tecnologia proporciona e nas evoluções e principalmente na área da saúde e educação. E essas coisas me fazem começar meus estudos nassa área. Hoje sou um estudante  e estou desenvolvendo minhas skills tanto a parte técnica quanto minhas habilidades interpessoais pela Trybe.  A cada dia eu me sinto mais confiante que esse é o meu caminho.
                   </p>
                         <a href='#contact' className='btn btn-primary'> Let's talk </a>
           </div>
